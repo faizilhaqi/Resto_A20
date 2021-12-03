@@ -53,6 +53,7 @@ header{
 
 /*top main*/
 .top-wrapper{
+	width:100%;
 	background-image:url("background1_edit2_.jpg"); 
 	background-size: cover;
 	color:white;
